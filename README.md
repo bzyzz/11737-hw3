@@ -1,1 +1,2 @@
 # 11737-hw3
+First clone espnet and get all the required packages. Enter the environment, then run our scripts in espnet/egs2/jsut/asr1 folder to get the results. We have provided the revised .yaml files that you need to reproduce the part where we added HuBERT.
